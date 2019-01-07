@@ -1,0 +1,4 @@
+1、eureka.client.serviceUrl.defaultZone配置项的地址，不能使用localhost，要使用域名，DNS解析请自行配置。
+
+2、配置eureka.instance.hostname(好像看到过正常eureka会自动拉取设备host，但各节点在同一机器下时请务必添加，
+注意各节点配置自己节点的host)
