@@ -13,6 +13,8 @@
     <modules>
         <module>microservice-euraka</module>
         <module>microservice-api-gateway</module>
+        <module>microservice-ribbon-consumer</module>
+        <module>microservice-provider</module>
     </modules>
 
     <parent>
